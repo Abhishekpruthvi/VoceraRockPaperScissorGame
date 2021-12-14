@@ -1,0 +1,7 @@
+https://voceragame.herokuapp.com/vocera/start
+https://voceragame.herokuapp.com/vocera/v1/{token}/paper
+https://voceragame.herokuapp.com/vocera/v1/{token}/rock
+https://voceragame.herokuapp.com/vocera/v1/{token}/scissors
+https://voceragame.herokuapp.com/vocera/v2/{token}/paper
+https://voceragame.herokuapp.com/vocera/v2/{token}/rock 
+https://voceragame.herokuapp.com/vocera/v2/{token}/scissors
